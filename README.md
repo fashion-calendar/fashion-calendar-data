@@ -1,9 +1,12 @@
 # fashion-calendar-data
 Publicly accessible dataset for the Fashion Calendar Research Database
 
-categories.json is all categories listed used in the database
-names.json is all names in the database, including reference to their respective categories by their _id, 'category_id'
-events.json is all the listed event, including reference to the respective names by their _id, 'name_id'
+categories.json is all categories listed used in the database.  
+
+names.json is all names in the database, including reference to their respective categories by their _id, 'category_id'.  
+
+events.json is all the listed event, including reference to the respective names by their _id, 'name_id'.  
+
 fashion-calendar.events.json is the previous 3 datasets merged together starting at the event level, and then nested with names and categories.
 
 
