@@ -9,9 +9,9 @@ Co-Prinicipal Investigator: Joseph Anderson, FIT Library
 contact: [fashioncalendar@fitnyc.edu](mailto:fashioncalendar@fitnyc.edu)
 
 ## Rights and Reuse
-All data and code are copyrighted and have been made available by the Fashion Institute of Technology under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This means you are free to share and adapt this material as long as you provide attribution, include a link to the license, and indicate if you have made any changes. When providing an attribution for this material, we request you include the credit, “Courtesy of the Fashion Institute of Technology-SUNY, Gladys Marcus Library unit of Special Collections and FIT Archive under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).” For example, to cite this dataset:
+All data and code are copyrighted and have been made available by the Fashion Institute of Technology under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This means you are free to share and adapt this material as long as you provide attribution, include a link to the license, and indicate if you have made any changes. When providing an attribution for this material, we request you include the credit, “Courtesy of the Fashion Institute of Technology Library, Department of Special Collections and FIT Archive under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).” For example, to cite this dataset:
 
-"Fashion Calendar 1941-2014 Dataset," [https://github.com/fashion-calendar/fashion-calendar-data](https://github.com/fashion-calendar/fashion-calendar-data). Courtesy of the Fashion Institute of Technology-SUNY, Gladys Marcus Library unit of Special Collections and FIT Archive under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+"Fashion Calendar 1941-2014 Dataset," [https://github.com/fashion-calendar/fashion-calendar-data](https://github.com/fashion-calendar/fashion-calendar-data). Courtesy of the Fashion Institute of Technology Library, Department of Special Collections and FIT Archive under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 For more information, see our page on [Rights and Reuse](https://fashioncalendar.fitnyc.edu/page/rights) on the Fashion Calendar Research Database.
 
